@@ -1,4 +1,4 @@
-package pl.michallysak.application.web
+package pl.michallysak.application.offer.web
 
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.ValueSource

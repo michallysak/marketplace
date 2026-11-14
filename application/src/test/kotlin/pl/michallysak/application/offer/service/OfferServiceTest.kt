@@ -1,4 +1,4 @@
-package pl.michallysak.application.service
+package pl.michallysak.application.offer.service
 
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify

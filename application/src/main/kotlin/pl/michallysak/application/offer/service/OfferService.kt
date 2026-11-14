@@ -1,4 +1,4 @@
-package pl.michallysak.application.service
+package pl.michallysak.application.offer.service
 
 import org.springframework.stereotype.Service
 import pl.michallysak.domain.model.Offer

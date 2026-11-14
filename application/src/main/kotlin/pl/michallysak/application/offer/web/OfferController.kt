@@ -1,4 +1,4 @@
-package pl.michallysak.application.web
+package pl.michallysak.application.offer.web
 
 import jakarta.validation.Valid
 import org.springframework.http.HttpStatus
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.web.bind.annotation.ResponseStatus
+import pl.michallysak.application.offer.service.OfferService
 import pl.michallysak.domain.valueobject.Money
-import pl.michallysak.application.service.OfferService
 
 @RestController
 @RequestMapping("/offers")

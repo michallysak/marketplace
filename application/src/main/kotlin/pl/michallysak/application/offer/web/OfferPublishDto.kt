@@ -1,4 +1,4 @@
-package pl.michallysak.application.web
+package pl.michallysak.application.offer.web
 
 import jakarta.validation.constraints.DecimalMin
 import jakarta.validation.constraints.NotBlank

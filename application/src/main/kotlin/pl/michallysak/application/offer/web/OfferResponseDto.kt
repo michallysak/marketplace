@@ -1,4 +1,4 @@
-package pl.michallysak.application.web
+package pl.michallysak.application.offer.web
 
 import pl.michallysak.domain.model.Offer
 import pl.michallysak.domain.model.OfferStatus

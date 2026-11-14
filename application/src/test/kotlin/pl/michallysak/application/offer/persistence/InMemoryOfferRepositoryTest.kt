@@ -1,4 +1,4 @@
-package pl.michallysak.application.persistence
+package pl.michallysak.application.offer.persistence
 
 import pl.michallysak.domain.model.Offer
 import pl.michallysak.domain.model.OfferStatus

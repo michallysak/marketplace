@@ -1,4 +1,4 @@
-package pl.michallysak.application.persistence
+package pl.michallysak.application.offer.persistence
 
 import org.springframework.stereotype.Repository
 import pl.michallysak.domain.model.Offer
